@@ -63,6 +63,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppFabricCacheAdapterTests.cs" />
     <Compile Include="AssemblySetup.cs" />
     <Compile Include="Common\NHibernateSessionManager.cs" />
     <Compile Include="Functional\Entities\Customer.cs" />
